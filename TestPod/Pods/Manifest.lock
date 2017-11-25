@@ -1,0 +1,19 @@
+PODS:
+  - MJRefresh (3.1.15)
+  - PodTestDemo-Objective-C (0.0.1)
+
+DEPENDENCIES:
+  - MJRefresh
+  - PodTestDemo-Objective-C (from `../`)
+
+EXTERNAL SOURCES:
+  PodTestDemo-Objective-C:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MJRefresh: 9af70f5f9327a2cf87f0fb5929f35fcc2fa638ea
+  PodTestDemo-Objective-C: b5230a794ee73b3d0ec1be4faed9b2ecf3295f3d
+
+PODFILE CHECKSUM: 6f3be0c7718af50200c7648e0d4a65cc3cfcaaea
+
+COCOAPODS: 1.2.1
