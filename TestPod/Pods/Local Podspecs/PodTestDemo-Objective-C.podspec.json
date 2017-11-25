@@ -11,7 +11,7 @@
     "git": "https://github.com/jashion/PodTestDemo-Objective-C.git",
     "tag": "0.0.1"
   },
-  "source_files": "PodTestDemo-Objective-C/*",
+  "source_files": "PodTestDemo-Objective-C/*.{h,m}",
   "platforms": {
     "osx": null,
     "ios": null,
